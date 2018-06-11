@@ -1,5 +1,6 @@
-# React + Firebase
-A simple application with React + Firebase without server code - [DEMO](https://bcarvalho89.github.io/react_firebase/)
+# Churras Comunitário
+A simple application where user can add item which will bring in our fake BBC.
+Built with React without server code using Firebase service - [DEMO](https://bcarvalho89.github.io/churras-comunitario/)
 
 ### Development
 - `npm start` 

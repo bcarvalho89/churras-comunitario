@@ -1,9 +1,10 @@
 {
-  "name": "react_firebase",
+  "name": "churras-comunitario",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bcarvalho89.github.io/react_firebase",
+  "homepage": "https://bcarvalho89.github.io/churras-comunitario",
   "dependencies": {
+    "firebase": "^5.0.4",
     "gh-pages": "^1.2.0",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
